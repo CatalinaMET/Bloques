@@ -1,0 +1,42 @@
+h1{
+    display: inline;
+     
+}
+#fondo{
+    width: 750px;
+    height: 650px;
+    background-color: rgb(214, 209, 177);
+    padding: 30px 20px;
+    display: inline-block; 
+     
+}
+.title{
+    text-align: center;
+}
+.imagenes{
+    width: 710px;
+    display: block;
+    margin: 20px;
+    text-align: center;
+
+    
+}
+.blanco{
+    
+    display: inline-block;
+    background-color: rgb(119, 182, 234);
+    margin: 0px 0px 4px 0px;
+    padding: 15px;
+    line-height: 0;
+    border-style: solid;
+    border-color: black;
+}
+.naranja{
+    display: inline-block;
+    background-color: rgb(252, 100, 113);
+    margin: 0px 0px 4px 0px;
+    padding: 15px;
+    line-height: 0;
+    border-style: solid;
+    border-color: black;
+}
